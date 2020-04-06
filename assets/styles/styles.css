@@ -102,12 +102,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #about h5 {
-		color: #8A8A8B;
+		color: black;
 }
 
 #about p {
 		margin-top: 1em;
-		color: #646464;
+		color: black;
 		font-family: "roboto";
 		font-weight: 300;
 }
@@ -173,7 +173,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .experience-topics ul li {
 	list-style: none;
-	color: #000000;
+	color: white;
 	font-family: "Maven pro", sans-serif;
 	font-weight: 500;
 }
