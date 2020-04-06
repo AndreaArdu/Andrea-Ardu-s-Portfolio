@@ -3,7 +3,7 @@
 /*********** Global Styles********/
 
 body, html {
-		background-color: #0f0f0e;
+		background-color: black;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -12,7 +12,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .wrapper {
-		background: #0f0f0e;
+		background: black;
 }
 
 .img-circle {
@@ -142,7 +142,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /*** Experience ***/
 #experience {
-	background-color: #4c6d86;
+	background-color: black;
 	padding: 6em 4em 5.6em;
 }
 
