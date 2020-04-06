@@ -133,7 +133,7 @@ h1, h2, h3, h4, h5, h6 {
 .fa {
 	font-size: 1.2em;
 	padding: 0.1em 0.4em;
-	color: #8a8a8a;
+	color: black;
 }
 
 .fa:hover {
@@ -191,7 +191,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 #work .tag-line {
-	color: #767779;
+	color: black;
 	font-size: 1.4em;
 	margin-bottom: 4em;
 }
@@ -201,7 +201,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .details h3 {
-	color: #738182;
+	color: black;
 	text-transform: uppercase;
 }
 
@@ -220,7 +220,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .details p {
-	color: #738182;
+	color: b;
 	font-family: "Maven pro", sans-serif;
 	font-weight: 500;
 	font-size: 1.2em;
