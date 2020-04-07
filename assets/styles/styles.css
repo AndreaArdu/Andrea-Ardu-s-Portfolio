@@ -147,7 +147,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #experience h2 {
-	color: #fff;
+	color: #ff7654;
 	margin-bottom: .7em;
 }
 
@@ -157,7 +157,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #experience i {
-	color: rgb(255, 138, 89);
+	color: #ff7654;
 	font-size: 4em;
 }
 
@@ -245,7 +245,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #teaching h2 {
-	color:rgba(255, 103, 68, 0.91);
+	color:#ff7654;
 }
 
 #teaching .tag-line {
@@ -260,28 +260,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*** Footer Call-to-action ***/
 #footer-cta {
-	background-color: rgba(255, 103, 68, 0.91);
+	background-color: white;
 	padding: 6em 4em 5.6em;
 }
 
