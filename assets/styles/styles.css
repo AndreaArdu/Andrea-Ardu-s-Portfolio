@@ -267,11 +267,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #footer-cta h2 {
-	color: white;
+	color: black;
 }
 
 #footer-cta p {
-	color: #fff;
+	color: black;
 	font-family: "Maven pro", sans-serif;
 	font-weight: 500;
 	font-size: 1.2em;
