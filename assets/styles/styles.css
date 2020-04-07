@@ -279,6 +279,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #startButtonDiv {
 	margin-top: 3em;
+	background:  rgba(255, 103, 68, 0.91) ;
 }
 
 #footer-cta a {
